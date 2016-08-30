@@ -11,9 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>
-http://moa.chinamobile.com/download/scripts/app.php
-</string>
+<string>http://moa.chinamobile.com/download/scripts/app.php</string>
 </dict>
 <dict>
 <key>kind</key>
